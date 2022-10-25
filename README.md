@@ -1,7 +1,11 @@
 ###Oracle JET Course
 
+Some new content here
+
 Small samples that, step-by-step, build up a thorough
 understanding of the concepts underpinning Oracle JET.
+
+some more addtl changes after staging
 
 The samples will each form the basis of a chapter or exercise
 in a book and/or course and/or a MOOC on Oracle JET.
